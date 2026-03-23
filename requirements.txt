@@ -1,0 +1,9 @@
+# Python visualization layer
+pandas>=2.0
+matplotlib>=3.8
+seaborn>=0.13
+google-cloud-bigquery>=3.14
+db-dtypes>=1.2
+# Optional interactive charts (not required for generate_charts.py)
+# plotly>=5.18
+# kaleido>=0.2

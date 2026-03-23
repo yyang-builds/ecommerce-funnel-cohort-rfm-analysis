@@ -1,0 +1,107 @@
+{
+  "funnel": [
+    {
+      "step_name": "product_view",
+      "sessions_at_step": 680868
+    },
+    {
+      "step_name": "add_to_cart",
+      "sessions_at_step": 430501
+    },
+    {
+      "step_name": "purchase",
+      "sessions_at_step": 180868
+    }
+  ],
+  "source_rates": [
+    {
+      "traffic_source": "YouTube",
+      "sessions": 68232,
+      "purchase_sessions": 18278,
+      "session_to_purchase_rate": 26.79
+    },
+    {
+      "traffic_source": "Adwords",
+      "sessions": 203867,
+      "purchase_sessions": 54241,
+      "session_to_purchase_rate": 26.61
+    },
+    {
+      "traffic_source": "Email",
+      "sessions": 306458,
+      "purchase_sessions": 81322,
+      "session_to_purchase_rate": 26.54
+    },
+    {
+      "traffic_source": "Facebook",
+      "sessions": 68412,
+      "purchase_sessions": 18140,
+      "session_to_purchase_rate": 26.52
+    },
+    {
+      "traffic_source": "Organic",
+      "sessions": 33899,
+      "purchase_sessions": 8887,
+      "session_to_purchase_rate": 26.22
+    }
+  ],
+  "rfm_segments": [
+    {
+      "rfm_segment": "Champions",
+      "customers": 8885,
+      "total_revenue": 2405697.03
+    },
+    {
+      "rfm_segment": "At Risk",
+      "customers": 10218,
+      "total_revenue": 1904316.8
+    },
+    {
+      "rfm_segment": "Promising",
+      "customers": 16393,
+      "total_revenue": 1413629.75
+    },
+    {
+      "rfm_segment": "Loyal Customers",
+      "customers": 7006,
+      "total_revenue": 1268917.38
+    },
+    {
+      "rfm_segment": "Potential Loyalists",
+      "customers": 16864,
+      "total_revenue": 1080958.65
+    },
+    {
+      "rfm_segment": "Hibernating",
+      "customers": 12452,
+      "total_revenue": 1076113.37
+    },
+    {
+      "rfm_segment": "Cannot Lose Them",
+      "customers": 304,
+      "total_revenue": 14505.18
+    }
+  ],
+  "top_countries": [
+    {
+      "country": "China",
+      "revenue": 3112976.39
+    },
+    {
+      "country": "United States",
+      "revenue": 2052776.08
+    },
+    {
+      "country": "Brasil",
+      "revenue": 1310601.78
+    },
+    {
+      "country": "South Korea",
+      "revenue": 499930.61
+    },
+    {
+      "country": "France",
+      "revenue": 419806.2
+    }
+  ]
+}
